@@ -2,6 +2,9 @@
 𝐃𝐞𝐟𝐚𝐮𝐥𝐭
 </h2>
 
+> Modified version, for my personnal usage
+> see sainnhe/sonokai:master for original.
+
 ![sonokai-default](https://user-images.githubusercontent.com/37491630/87916859-a03dad80-caa6-11ea-9694-b34c4a980672.png)
 
 <h2 align="center">
